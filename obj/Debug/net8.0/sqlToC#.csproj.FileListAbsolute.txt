@@ -1,0 +1,15 @@
+C:\Users\ygold\OneDrive\Desktop\repos\sqlToC#\bin\Debug\net8.0\sqlToC#.exe
+C:\Users\ygold\OneDrive\Desktop\repos\sqlToC#\bin\Debug\net8.0\sqlToC#.deps.json
+C:\Users\ygold\OneDrive\Desktop\repos\sqlToC#\bin\Debug\net8.0\sqlToC#.runtimeconfig.json
+C:\Users\ygold\OneDrive\Desktop\repos\sqlToC#\bin\Debug\net8.0\sqlToC#.dll
+C:\Users\ygold\OneDrive\Desktop\repos\sqlToC#\bin\Debug\net8.0\sqlToC#.pdb
+C:\Users\ygold\OneDrive\Desktop\repos\sqlToC#\obj\Debug\net8.0\sqlToC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygold\OneDrive\Desktop\repos\sqlToC#\obj\Debug\net8.0\sqlToC#.AssemblyInfoInputs.cache
+C:\Users\ygold\OneDrive\Desktop\repos\sqlToC#\obj\Debug\net8.0\sqlToC#.AssemblyInfo.cs
+C:\Users\ygold\OneDrive\Desktop\repos\sqlToC#\obj\Debug\net8.0\sqlToC#.csproj.CoreCompileInputs.cache
+C:\Users\ygold\OneDrive\Desktop\repos\sqlToC#\obj\Debug\net8.0\sqlToC#.sourcelink.json
+C:\Users\ygold\OneDrive\Desktop\repos\sqlToC#\obj\Debug\net8.0\sqlToC#.dll
+C:\Users\ygold\OneDrive\Desktop\repos\sqlToC#\obj\Debug\net8.0\refint\sqlToC#.dll
+C:\Users\ygold\OneDrive\Desktop\repos\sqlToC#\obj\Debug\net8.0\sqlToC#.pdb
+C:\Users\ygold\OneDrive\Desktop\repos\sqlToC#\obj\Debug\net8.0\sqlToC#.genruntimeconfig.cache
+C:\Users\ygold\OneDrive\Desktop\repos\sqlToC#\obj\Debug\net8.0\ref\sqlToC#.dll
